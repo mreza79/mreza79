@@ -16,7 +16,7 @@
 [![](https://img.shields.io/badge/-python3-orange?style=for-the-badge&logo=python)](https://www.python.org/)
 
 ### Contact me
-[![](https://img.shields.io/badge/-pahram.alvani@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:mrj9012@gmail.com)
+[![](https://img.shields.io/badge/-mrj9012@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:mrj9012@gmail.com)
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 
 
