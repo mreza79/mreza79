@@ -14,7 +14,7 @@
 
 ## Languages & Technologies
 [![](https://img.shields.io/badge/-python3-orange?style=for-the-badge&logo=python)](https://www.python.org/)
-<p align="left"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="30" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p>
+[![](https://img.shields.io/badge/-java-orange?style=for-the-badge&logo=java)](https://www.java.com/en/)
 
 ### Contact me
 [![](https://img.shields.io/badge/-mrj9012@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:mrj9012@gmail.com)
