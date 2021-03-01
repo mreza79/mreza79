@@ -14,6 +14,7 @@
 
 ## Languages & Technologies
 [![](https://img.shields.io/badge/-python3-orange?style=for-the-badge&logo=python)](https://www.python.org/)
+<a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 
 ### Contact me
 [![](https://img.shields.io/badge/-mrj9012@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:mrj9012@gmail.com)
