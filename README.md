@@ -15,6 +15,7 @@
 ## Languages & Technologies
 [![](https://img.shields.io/badge/-python3-orange?style=for-the-badge&logo=python)](https://www.python.org/)
 [![](https://img.shields.io/badge/-java?style=for-the-badge&logo=java)](https://www.java.com/en/)
+[![](https://img.shields.io/badge/-java?style=for-the-badge&logo=java)](https://www.java.com/en/)
 
 ### Contact me
 [![](https://img.shields.io/badge/-mrj9012@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:mrj9012@gmail.com)
