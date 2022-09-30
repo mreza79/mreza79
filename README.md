@@ -8,8 +8,8 @@
 ## Github Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrezaj79&show_icons=true&theme=radical" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrezaj79&layout=compact&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mreza79&show_icons=true&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mreza79&layout=compact&theme=radical" />
 </p>
 
 ## Languages & Technologies
