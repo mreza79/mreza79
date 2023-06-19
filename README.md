@@ -1,8 +1,8 @@
 # Hey there, I'm Mohammadreza
 
 ## About me
-- 💻 I'm a Computer Engineering student at Shahid Beheshti University
-- 📚 I’m intrested in AI
+- 💻 I finished bachelor of Computer Engineering at Shahid Beheshti University
+- 📚 I’m interested in AI and backend development
 
 
 ## Github Stats
