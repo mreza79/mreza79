@@ -18,7 +18,7 @@
 [![](https://img.shields.io/badge/-html-orange?style=for-the-badge&logo=html)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjj8uSSnI_vAhXLT8AKHS1gDU4QFjAAegQIARAE&url=https%3A%2F%2Fwww.w3schools.com%2Fhtml%2F&usg=AOvVaw0vItDRbv3KzO30MW1MRsJ1)
 
 ### Contact me
-[![](https://img.shields.io/badge/-mrj9012@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:mrj9012@gmail.com)
+[![](https://img.shields.io/badge/-jamalimohammadreza79@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:jamalimohammadreza79@gmail.com)
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 
 
