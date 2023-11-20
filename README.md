@@ -21,9 +21,5 @@
 
 ### Contact me
 [![](https://img.shields.io/badge/-jamalimohammadreza79@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:jamalimohammadreza79@gmail.com)
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-
-
-[linkedin]: https://www.linkedin.com/in/mohammadrezajamali
 
 
