@@ -19,7 +19,5 @@
 <a href="https://nodejs.org" target="_blank"  rel="noopener noreferrer"><img width="50" src="https://logowik.com/content/uploads/images/nodejs.jpg" alt="nodejs logo"></a>
 <a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="50" src="https://vuejs.org/images/logo.png" alt="Vue logo”></a>
 
-### Contact me
-[![](https://img.shields.io/badge/-jamalimohammadreza79@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:jamalimohammadreza79@gmail.com)
 
 
