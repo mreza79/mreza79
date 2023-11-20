@@ -13,13 +13,17 @@
 </p>
 
 ## Languages & Technologies
-[![](https://img.shields.io/badge/-python3-orange?style=for-the-badge&logo=python)](https://www.python.org/)
-[![](https://img.shields.io/badge/-java-orange?style=for-the-badge&logo=java)](https://www.java.com/en/)
-[![](https://img.shields.io/badge/-html-orange?style=for-the-badge&logo=html)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjj8uSSnI_vAhXLT8AKHS1gDU4QFjAAegQIARAE&url=https%3A%2F%2Fwww.w3schools.com%2Fhtml%2F&usg=AOvVaw0vItDRbv3KzO30MW1MRsJ1)
+<p align="center">
+<a href="https://go.dev" target="_blank" rel="noopener noreferrer"><img width="50" height="50" src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" alt="golang logo"></a>
+<a href="https://nodejs.org" target="_blank"  rel="noopener noreferrer"><img width="50" src="https://logowik.com/content/uploads/images/nodejs.jpg" alt="nodejs logo"></a>
+<a href="https://www.java.com" target="_blank" rel="noopener noreferrer"><img width="50" src="https://img.shields.io/badge/-java-orange?style=for-the-badge&logo=java"></a>
+<a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="50" src="https://vuejs.org/images/logo.png" alt="Vue logo”></a>
 
 ### Contact me
 [![](https://img.shields.io/badge/-jamalimohammadreza79@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:jamalimohammadreza79@gmail.com)
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/mohammad-reza-jamali-0977ab170/
+[linkedin]: https://www.linkedin.com/in/mohammadrezajamali
+
+
